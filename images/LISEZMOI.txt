@@ -1,0 +1,28 @@
+VELVET LOCKS — IMAGES À FOURNIR (15 fichiers)
+Placez chaque fichier dans ce dossier images/ avec EXACTEMENT ce nom :
+
+1.  card-01.jpg      2:3   (vertical)  Femme blonde, perruque longue lisse — portrait
+2.  card-02.jpg      2:3   (vertical)  Femme brune, perruque body wave
+3.  card-03.jpg      2:3   (vertical)  Femme rousse, perruque bouclée
+4.  card-04.jpg      2:3   (vertical)  Femme, perruque afro volumineuse
+5.  card-05.jpg      2:3   (vertical)  Femme, perruque bob ou mi-longue
+6.  card-06.jpg      9:16  (vertical)  Portrait serré, perruque lace front
+7.  card-07.jpg      9:16  (vertical)  Femme, perruque blonde plaque Platinum
+8.  card-08.jpg      9:16  (vertical)  Gros plan cheveux lace front (légende "LACE FRONT")
+9.  card-09.jpg      9:16  (vertical)  Nouvelle collection / détail mèches ("NOUVEAUTÉS")
+10. card-10.jpg      9:16  (vertical)  Boucles définies, fond sombre ("BOUCLÉES")
+11. hero-banner.jpg  21:9  (panorama)  Femme portant une perruque longue brillante,
+                                       sujet à DROITE, tiers gauche vide pour le texte
+12. product-1.jpg    1:1   (carré)     Perruque Lace Front Body Wave sur tête de mannequin,
+                                       fond beige/crème clair
+13. product-2.jpg    1:1   (carré)     Perruque Bob Lisse Brun sur mannequin, fond clair
+14. product-3.jpg    1:1   (carré)     Kit d'entretien (shampoing + support + peigne)
+15. product-4.jpg    1:1   (carré)     Perruque Bouclée Naturelle sur mannequin, fond clair
+
+CONTRAT PIXEL (rappel du site) :
+- Canvas fixe 1172 x 657 px mis à l'échelle JS (3 architectures : ≤640, 641-1080, ≥1081).
+- Badge : largeur d'encre du texte = 184 px (fitter automatique).
+- Boutons lumineux : hauteur 46 px, rayon 23 px, halo cyan 0 0 22 px rgba(87,241,255,.45).
+- Rouge des puces : #e5202f. Éclat cyan : #57f1ff.
+- Tant qu'une image manque, le mécanisme .broken affiche un dégradé
+  (sable / rose poudré / bordeaux / noir) + un grand numéro : le site reste propre.
